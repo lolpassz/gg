@@ -88,4 +88,4 @@ local Button = Tab:CreateButton({
 
 local Tab = Window:CreateTab("Info", "blend")
 
-local Paragraph = Tab:CreateParagraph({Title = "Made by _pastlive", Content = "Discord: _pastlive."})
+local Paragraph = Tab:CreateParagraph({Title = "Made by _pastlive", Content = "do not copy pls"})
